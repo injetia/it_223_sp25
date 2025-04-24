@@ -1,0 +1,9 @@
+Aryan Programmer R&D 90000
+Smith Director R&D 140000
+Varan Manager Marketing 95000
+Aron Manager Account 98000
+Tate Marketing_Executive Marketing 40000
+Dauge Account_Executive Account 40000
+Shaun Programmer R&D 95000
+Stive Director Marketing 100000
+
