@@ -15,13 +15,13 @@ mkdir logs
 cd logs
 
 # Download some sample log files
-```
+```ruby
 curl -O https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/nginx_logs/nginx_logs
 curl -O https://raw.githubusercontent.com/martenson/discogs-logs/master/sample.log
 curl -O https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Formats/apache_logs/apache_logs
 ```
 Check the files:
-```
+```ruby
 ls -l
 ```
 You should see three files:
@@ -33,37 +33,37 @@ You should see three files:
 Try the following tasks:
 
 ## Task 1: Find all lines that contain the word “error”
-```
+```ruby
 grep "error" nginx_logs
 ```
 ## Task 2: Find all lines that contain an IP address (e.g., “192.168.”)
-```
+```ruby
 grep "192\.168\." nginx_logs
 ```
 (Note: We escape the dot . because otherwise it means “any character”.)
 
 ## Task 3: Find all HTTP 404 errors in Apache logs
-```
+```ruby
 grep " 404 " apache_logs
 ```
 ## Task 4: Find all access logs from a specific date (e.g., 17/May/2015)
-```
+```ruby
 grep "17/May/2015" apache_logs
-```
+```ruby
 ## Task 5: (Challenge) Show line numbers with matches
 
-```
+```ruby
 grep -n "error" nginx_logs
 ```
 ## Part 4: Bonus Exercises
 	•	Use grep -i to make the search case insensitive:
 
-```
+```ruby
 grep -i "error" sample.log
 ````
 	•	Use grep -v to show all lines NOT containing a word:
 
-```
+```ruby
 grep -v "GET" nginx_logs
 ```
 # Submission
