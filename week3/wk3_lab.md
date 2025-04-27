@@ -1,11 +1,12 @@
-# Lab: Using GitHub Codespaces to Analyze Log Files with grep
+<summary>
+<detail> # Lab: Using GitHub Codespaces to Analyze Log Files with grep</detail>
 # Objective
 
 # In this lab, you will:
 	•	You will use your GitHub Codespace 
 	•	Download sample log files
 	•	Use the grep command to search and filter text in the logs
-
+</summary>
 # Instructions:
 Login to your codespace
 In the Codespace terminal, run the following:
