@@ -1,6 +1,20 @@
-<detail> 
+<details>
 
-<summary> # Lab: Using GitHub Codespaces to Analyze Log Files with grep</summary>
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</detail> 
+
+# Lab: Using GitHub Codespaces to Analyze Log Files with grep
 # Objective
 
 # In this lab, you will:
