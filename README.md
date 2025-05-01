@@ -7,3 +7,9 @@
 ## About me
 
 Hi, I'm Anand. You might recognize me as {% data variables.product.prodname_dotcom %}'s mascot.
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
