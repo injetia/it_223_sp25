@@ -6,7 +6,7 @@ Learn advanced formatting features by creating a README for your GitHub profile.
 
 Markdown can be used in the GitHub web interface.
 
-## In this article
+## In this acitivity you will learn the below concepts:
 
 - [
     
@@ -66,8 +66,18 @@ If you already have a profile README, you can follow this guide by adding some f
 
 Your profile README lets you share information about yourself with the community on GitHub. The README is displayed at the top of your profile page.
 
-If you don't already have a profile README, you can add one.
+# Instructions:
 
+Login to your codespace
+In the Codespace terminal, run the following:
+```ruby
+git clone  https://github.com/injetia/it_223_sp25.git
+cd week3a
+```
+
+Use the myprofile.md file to create a profile using your existing README.md
+
+# If you DO NOT have an existing README.md file you can create one using the below instructions:
 1. Create a repository with the same name as your GitHub username, initializing the repository with a `README.md` file. For more information, see [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#adding-a-profile-readme).
 2. Edit the `README.md` file and delete the template text (beginning `### Hi there`) that is automatically added when you create the file.
 
