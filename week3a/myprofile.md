@@ -296,3 +296,4 @@ When you're happy with your changes, save your profile README by clicking **Com
 ![alt text](image.png)
 
 ## Take a screenshot and add it to your repo. Note: You can drag and drop the image to your repo.
+## Submit the URL for your repo in Canvas
