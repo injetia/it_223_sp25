@@ -8,8 +8,13 @@
 
 Hi, I'm Anand. You might recognize me as {% data variables.product.prodname_dotcom %}'s mascot.
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
+</details>
