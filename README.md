@@ -18,3 +18,13 @@ Hi, I'm Anand. You might recognize me as {% data variables.product.prodname_dotc
 |     3|               |
 
 </details>
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
