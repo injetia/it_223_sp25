@@ -289,8 +289,10 @@ You can use HTML comment syntax to add a comment that will be hidden in the outp
 <!-- TO DO: add more details about me later -->
 ```
 
-## [Saving your work](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#saving-your-work)
+## [Submitting your work](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#saving-your-work)
 
 When you're happy with your changes, save your profile README by clicking **Commit changes**.
 
-Committing directly to the `main` branch will make your changes visible to any visitor on your profile. If you want to save your work but aren't ready to make it visible on your profile, you can select **Create a new branch for this commit and start a pull request**.
+![alt text](image.png)
+
+## Take a screenshot and add it to your repo. Note: You can drag and drop the image to your repo.
